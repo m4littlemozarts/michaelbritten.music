@@ -25,4 +25,4 @@ Then open `http://localhost:4173/`.
 
 ## Hosting
 
-The repository is structured for GitHub Pages. Publishing, the custom-domain `CNAME`, Cloudflare DNS changes, and Super cancellation are intentionally deferred until the local rebuild is approved.
+The site is published from `main` through GitHub Pages with `michaelbritten.music` as its custom domain. Cloudflare owns the authoritative DNS records.
